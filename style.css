@@ -1,0 +1,28 @@
+.matrixTbl, .matrixTbl td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    background-color: #9f9f9f;
+}
+
+.btnContainer {
+    float: left;
+    margin-top: 2%;
+}
+.charColor0{
+    color:blue;
+}
+.charColor1 {
+    color: gray;
+}
+.charColor2 {
+    color: yellow;
+}
+.charColor3 {
+    color: red;
+}
+#validCombs{
+    margin-left: 15%;;
+}
